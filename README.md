@@ -1,3 +1,3 @@
-# python
+# Python
 
 Basic Python programs
