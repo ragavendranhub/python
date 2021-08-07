@@ -1,7 +1,7 @@
 # Comments are starting with '#'
 
 #print() is a function, which display the value of a variable, are string passed within
-print ("Hello, World!")
+print ("Hello, World")
 
 #Strings are surrounded by "" or ''
 a="Wonder"
